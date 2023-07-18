@@ -1,0 +1,1170 @@
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\ref\AdminPanelApi.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\jose-jwt.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\Web\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\ref\AdminPanelApi.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.xml
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\ADMIN\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\ref\AdminPanelApi.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.xml
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\omar\unipay\AdminPanel\AdminPanelApi\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\omar\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\code\web\international_federation_web\Admin\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\test\international_federation_web\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Pack.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminPanelApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminPanelApi.props
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminPanelApi.props
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminPanelApi.props
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\test\international_federation_web\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\test\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Pack.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminPanelApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminPanelApi.props
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminPanelApi.props
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminPanelApi.props
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\test\law\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+D:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\code\web\law\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Pack.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminPanelApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminPanelApi.props
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminPanelApi.props
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminPanelApi.props
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+F:\code\web\law\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\appsettings.Development.json
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\appsettings.json
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.StaticWebAssets.xml
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.exe
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.deps.json
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.json
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.runtimeconfig.dev.json
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AdminPanelApi.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Azure.Core.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Azure.Identity.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Core.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Data.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Localization.Abstractions.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.MultiTenancy.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.ObjectExtending.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Security.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Settings.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.UI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Uow.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.Validation.Abstractions.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Beiyuan.WebSystem.VirtualFileSystem.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Humanizer.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\MailKit.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Web.Http.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\MimeKit.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nancy.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\NETCore.MailKit.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nito.Collections.Deque.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Nito.Disposables.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Memory.Data.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\code\web\meta avatar\api\AdminPanelApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.AssemblyReference.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfoInputs.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.AssemblyInfo.cs
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CoreCompileInputs.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cs
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.MvcApplicationPartsAssemblyInfo.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\scopedcss\bundle\AdminPanelApi.styles.css
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Manifest.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\AdminPanelApi.StaticWebAssets.Pack.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminPanelApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminPanelApi.props
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminPanelApi.props
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminPanelApi.props
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.RazorTargetAssemblyInfo.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.csproj.CopyComplete
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.dll
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\refint\AdminPanelApi.dll
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.pdb
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\AdminPanelApi.genruntimeconfig.cache
+F:\code\web\meta avatar\api\AdminPanelApi\obj\Debug\net5.0\ref\AdminPanelApi.dll

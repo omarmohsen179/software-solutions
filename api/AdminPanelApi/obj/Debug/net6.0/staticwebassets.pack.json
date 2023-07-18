@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\AdminContactUsMailForm.html",
+      "PackagePath": "staticwebassets\\AdminContactUsMailForm.html"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\ContactUsMailForm.html",
+      "PackagePath": "staticwebassets\\ContactUsMailForm.html"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\363f9b14-690c-4fed-acb3-da505e33c427.png",
+      "PackagePath": "staticwebassets\\Uplode\\363f9b14-690c-4fed-acb3-da505e33c427.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\81d0225e-bd14-41d5-b348-4963ab8d5186.png",
+      "PackagePath": "staticwebassets\\Uplode\\81d0225e-bd14-41d5-b348-4963ab8d5186.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\851812b7-1862-4f69-bcac-0e58e36a3af5.png",
+      "PackagePath": "staticwebassets\\Uplode\\851812b7-1862-4f69-bcac-0e58e36a3af5.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\94a5875e-7029-48b0-ae4e-fbdfc8e75e4a.png",
+      "PackagePath": "staticwebassets\\Uplode\\94a5875e-7029-48b0-ae4e-fbdfc8e75e4a.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\AdminContactUsMailForm.html",
+      "PackagePath": "staticwebassets\\Uplode\\AdminContactUsMailForm.html"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\fe753c88-2c75-41f1-b5de-be3f56b37e7a.png",
+      "PackagePath": "staticwebassets\\Uplode\\fe753c88-2c75-41f1-b5de-be3f56b37e7a.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\ss1.png",
+      "PackagePath": "staticwebassets\\Uplode\\ss1.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\ss2.png",
+      "PackagePath": "staticwebassets\\Uplode\\ss2.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\ss3.png",
+      "PackagePath": "staticwebassets\\Uplode\\ss3.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\Uplode\\ss4.png",
+      "PackagePath": "staticwebassets\\Uplode\\ss4.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\aa.jpg",
+      "PackagePath": "staticwebassets\\aa.jpg"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\temp.png",
+      "PackagePath": "staticwebassets\\temp.png"
+    },
+    {
+      "Id": "F:\\code\\web\\meta avatar\\api\\AdminPanelApi\\wwwroot\\whitelogo.png",
+      "PackagePath": "staticwebassets\\whitelogo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdminPanelApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdminPanelApi.props",
+      "PackagePath": "build\\AdminPanelApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminPanelApi.props",
+      "PackagePath": "buildMultiTargeting\\AdminPanelApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdminPanelApi.props",
+      "PackagePath": "buildTransitive\\AdminPanelApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

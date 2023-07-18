@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\code\web\law\api\AdminPanelApi\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-04-05T05:44:26.8111531Z;True|2023-03-22T06:26:09.8879639+10:00;True|2023-03-22T06:25:15.8707850+10:00;True|2023-03-22T06:23:06.1166302+10:00;True|2023-03-22T06:17:22.1819930+10:00;True|2023-03-22T06:10:24.7902311+10:00;True|2023-03-22T06:03:57.9722499+10:00;True|2023-03-22T06:03:03.3364602+10:00;True|2023-03-22T04:15:49.5838309+10:00;True|2023-03-20T05:04:24.6360397+10:00;True|2023-03-20T04:56:03.2291522+10:00;True|2023-03-20T04:55:15.0378223+10:00;True|2023-03-20T04:50:19.1089409+10:00;True|2023-03-20T04:50:06.7472171+10:00;True|2023-03-20T04:39:10.5867868+10:00;True|2023-02-11T10:50:24.4804032+10:00;True|2023-02-11T10:26:26.2358740+10:00;True|2023-02-11T10:25:44.9077176+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

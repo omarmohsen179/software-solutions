@@ -1,0 +1,94 @@
+.main-auth {
+  background-color: #f5f5f5 !important;
+  width: 464px;
+
+  margin: 12em auto;
+  border-radius: 5px;
+  /* border-width: 32px; */
+  /* border-color: black; */
+  padding: 1px;
+  border: 1px solid #cbcbcb;
+  box-shadow: 22px 20px 11px 0px rgb(0 0 0 / 14%);
+}
+
+.sign {
+  padding-top: 40px;
+  color: #212120;
+  font-size: 23px;
+}
+
+.un {
+  color: rgb(38, 50, 56);
+  font-size: 14px;
+  letter-spacing: 1px;
+  min-width: 300px;
+  /* background: rgba(136, 126, 126, 0.04); */
+  padding: 10px 20px;
+  /* border: none; */
+  border-radius: 4px;
+
+  outline: none;
+  box-sizing: border-box;
+  border: 0.5px solid rgb(0 0 0 / 30%);
+  margin: 10px 0px;
+  display: flex;
+}
+
+.login-remeber-me-checkbox label {
+  padding: 5px;
+}
+
+.pass {
+  width: 76%;
+  color: rgb(38, 50, 56);
+  font-size: 14px;
+  letter-spacing: 1px;
+  background: rgba(136, 126, 126, 0.04);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.02);
+  text-align: center;
+}
+
+.un:focus,
+.pass:focus {
+  border: 2px solid rgba(0, 0, 0, 0.18) !important;
+}
+
+.submit {
+  cursor: pointer;
+  border-radius: 4px;
+  color: #fff;
+  background: linear-gradient(to right, #212120, #212120);
+  border: 0;
+  padding: 10px 20px;
+  min-width: 300px;
+  box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+  margin: 20px 0;
+}
+
+.forgot {
+  text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+  color: #e1bee7;
+  padding-top: 15px;
+}
+
+a {
+  text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+  color: #e1bee7;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .main-auth {
+    width: 100%;
+    height: 100%;
+    border-width: 0;
+    border-radius: 0px;
+
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 14%);
+  }
+}

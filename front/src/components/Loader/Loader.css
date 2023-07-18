@@ -1,0 +1,29 @@
+.loading_x {
+  font-size: 33px;
+  width: 70px;
+  height: 70px;
+}
+.spinner-border {
+  display: block;
+  position: fixed;
+  top: calc(50% - (58px / 2));
+  right: calc(50% - (58px / 2));
+  color: #dca74a;
+  z-index: 100;
+}
+.loader-background {
+  min-width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  z-index: 200;
+  background-color: white;
+}
+.loader_x_form {
+  font-size: 20px;
+  width: 60px;
+  height: 60px;
+  display: block;
+  position: inherit;
+}
